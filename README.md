@@ -22,6 +22,7 @@ This project analyzes consumer purchasing behavior in the fashion and beauty seg
 
 ## 📸 Dashboard Preview
 ![Dashboard](https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/dashboard.png.jpeg)Dataset.png
+- <a href="https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/Neha%20college%20research.pbix"> pbix file
 
 ## 📂 Dataset
 The dataset used for this project is included in the repository.
