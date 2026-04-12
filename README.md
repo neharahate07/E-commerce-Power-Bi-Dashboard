@@ -4,7 +4,7 @@ Data-driven analysis of e-commerce purchase behavior using statistical technique
 # 📊 E-Commerce Consumer Purchase Behavior Dashboard
 
 ## 📌 Project Overview
-This project analyzes consumer purchasing behavior in the fashion and beauty segment using Power BI. The study focuses on understanding how factors like discounts, reviews, and social media influence buying decisions.
+This project analyzes consumer purchasing behavior in the fashion and beauty segment using Power BI. The study focuses on understanding how factors like discounts, reviews, and social media influence buying decisions. This project analyzes the online purchase behavior of college students in the fashion and beauty segment using a data-driven approach.
 
 ## 🎯 Objectives
 - Identify key factors influencing online purchase decisions  
@@ -32,7 +32,7 @@ This project analyzes consumer purchasing behavior in the fashion and beauty seg
 ## 📸 Dashboard Preview
 ![Dashboard](https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/dashboard.png.jpeg)Dataset.png
 - <a href="https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/Neha%20college%20research.pbix"> pbix file
-- Project pdf - 
+- Project pdf - <a pdf="https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/Neha%20Rahate%20Project.pdf">
 
 ## 📂 Dataset
 The dataset used for this project is included in the repository.
