@@ -1,5 +1,6 @@
-# E-commerce-Power-Bi-Dashboard
-Power BI dashboard analyzing consumer purchase behavior
+# E-commerce-Consumer-Behavior-Analysis
+Data-driven analysis of e-commerce purchase behavior using statistical techniques (Chi-square test, hypothesis testing)
+
 # 📊 E-Commerce Consumer Purchase Behavior Dashboard
 
 ## 📌 Project Overview
@@ -7,8 +8,16 @@ This project analyzes consumer purchasing behavior in the fashion and beauty seg
 
 ## 🎯 Objectives
 - Identify key factors influencing online purchase decisions  
-- Analyze platform preference (Myntra, Nykaa, Amazon, Flipkart)  
-- Understand the impact of social media on consumer behavior  
+- Analyze platform preference (Myntra, Nykaa, Amazon, Flipkart)
+- Identify key influencing factors (price, brand, peer influence)
+- Apply statistical techniques to test relationships
+- Understand the impact of social media on consumer behavior
+
+## 📊 Methodology
+- Primary data collection (100+ respondents)
+- Likert scale analysis
+- Hypothesis testing
+- Chi-square test for statistical significance
 
 ## 🛠 Tools Used
 - Power BI  
@@ -23,6 +32,7 @@ This project analyzes consumer purchasing behavior in the fashion and beauty seg
 ## 📸 Dashboard Preview
 ![Dashboard](https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/dashboard.png.jpeg)Dataset.png
 - <a href="https://github.com/neharahate07/E-commerce-Power-Bi-Dashboard/blob/main/Neha%20college%20research.pbix"> pbix file
+- Project pdf - 
 
 ## 📂 Dataset
 The dataset used for this project is included in the repository.
@@ -32,4 +42,7 @@ The dataset used for this project is included in the repository.
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
-3. Explore interactive visuals and insights  
+3. Explore interactive visuals and insights
+
+## 🚀 Author
+Neha Rahate 
